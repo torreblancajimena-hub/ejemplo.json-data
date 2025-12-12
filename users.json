@@ -5,3 +5,19 @@
   "celular": "99999999",
   "tipo_cliente": "Premiun/Normal"
 }
+
+{
+  "id": "002",
+  "nombre": "Jimena Torres",
+  "direccion": "Avenida Arequipa 891",
+  "celular": "99999999",
+  "tipo_cliente": "Premiun/Normal"
+}
+
+{
+  "id": "004",
+  "nombre": "Liam Cuadros",
+  "direccion": "Avenida Arequipa 892",
+  "celular": "99999999",
+  "tipo_cliente": "Premiun/Normal"
+}

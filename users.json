@@ -5,7 +5,7 @@
     "direccion": "Avenida Arequipa 890",
     "celular": "99999999",
     "tipo_cliente": "Premiun/Normal"
-  },
+  }
   
   {
     "id": "002",
@@ -13,7 +13,7 @@
     "direccion": "Avenida Arequipa 891",
     "celular": "99999999",
     "tipo_cliente": "Premiun/Normal"
-  },
+  }
   
   {
     "id": "004",
